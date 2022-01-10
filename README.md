@@ -1,4 +1,4 @@
-# SiguriaNeInternetSemestri5
+# SiguriaNeInternet
 
 ## Dy projektet e para në lëndën Siguria në Internet
 Tema1: **SSLsplit**
